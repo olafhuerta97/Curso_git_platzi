@@ -10,3 +10,5 @@ d = c^2
 print (d)
 d = por55(d)
 print (d)
+
+f = d*5
