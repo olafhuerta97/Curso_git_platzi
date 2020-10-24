@@ -2,5 +2,8 @@
 def por55(arg):
     return arg*55
 
-def porvalorx(x,no):
-    return x*no
+def por35(arg):
+    return arg*35
+
+def por25(arg):
+    return arg*25
