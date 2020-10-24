@@ -1,3 +1,3 @@
 
 def por55(arg):
-    return arg*45
+    return arg*55
