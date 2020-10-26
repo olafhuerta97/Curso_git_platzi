@@ -7,3 +7,6 @@ def por35(arg):
 
 def por25(arg):
     return arg*25
+
+def por(x,y):
+    return x*y
